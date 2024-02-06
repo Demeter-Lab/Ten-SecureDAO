@@ -1,0 +1,29 @@
+{
+  "name": "ten-securedao",
+  "version": "1.0.0",
+  "description": "A privacy-oriented DAO with encrypted voting DATA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Demeter-Lab/Ten-SecureDAO.git"
+  },
+  "keywords": [
+    "ten",
+    "dao",
+    "voting",
+    "encryption"
+  ],
+  "author": "Demeter-Labs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Demeter-Lab/Ten-SecureDAO/issues"
+  },
+  "homepage": "https://github.com/Demeter-Lab/Ten-SecureDAO#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.19.5"
+  }
+}
